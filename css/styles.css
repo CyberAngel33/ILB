@@ -328,9 +328,11 @@ header{
 }
 #sponsors{
     background-color: #011f5d;
+    
 }
 #sponsors div{
     text-align: center;
+    align-items: center;
 }
 #sponsors img{
     width: 100%;
